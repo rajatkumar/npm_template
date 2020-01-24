@@ -1,0 +1,39 @@
+{
+  "name": "npm-template",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "description": "template for generating npm modules",
+  "homepage": "",
+  "author": {
+    "name": "Rajat Kumar",
+    "email": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rajatkumar/npm_template"
+  },
+  "license": "MIT",
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "npm-template",
+    "npm",
+    " generator",
+    " template"
+  ],
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "conventional-changelog-angular": "^5.0.0",
+    "conventional-recommended-bump": "^4.0.0",
+    "coveralls": "^3.0.1",
+    "documentation": "^8.0.0",
+    "eslint": "^4.19.1",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-prettier": "^2.6.0",
+    "mocha": "^5.2.0",
+    "nyc": "^12.0.2",
+    "prettier": "^1.13.5",
+    "unleash": "^2.0.1"
+  }
+}
